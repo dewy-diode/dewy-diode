@@ -44,16 +44,6 @@ I'm a student pursuing Btech in EXTC. Living in a practical World.
   <a href="https://www.linkedin.com/in/soumya-prasad-9966543a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/dewy.diode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
----
-
-### Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewy-diode&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF3B3B&icon_color=FF3B3B&text_color=E6E6E6" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewy-diode&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=FF3B3B&text_color=E6E6E6" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 ### Soumya's Contribution Graph
