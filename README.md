@@ -12,9 +12,8 @@
 
 </td>
 <td width="80%" align="center" valign="middle">
-$\color{#FFFFFF}\textit{"The best way to predict the future}$
-<br/>
-$\color{#FFFFFF}\textit{is to create it." — Peter Drucker}$
+$\color{#FFFFFF}\textit{"The best way to predict the future is to create it." — Peter Drucker}$
+
 
 </td>
 </tr>
