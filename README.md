@@ -21,7 +21,7 @@ $\color{#FFFFFF}\textit{is to create it." — Peter Drucker}$
 </table>
 
 <!-- GREETING:START -->
-### Good day! I'm Soumya.
+### 👋 Good Night! I'm Soumya.
 <!-- GREETING:END -->
 <!-- TODO 2: This greeting is static for now. You asked if it's possible to
      make it actually change to Good Morning / Afternoon / Evening based on
