@@ -1,30 +1,10 @@
-"""
-Optional bonus: makes the greeting line in README.md actually say
-"Good Morning" / "Good Afternoon" / "Good Evening" / "Good Night"
-based on the current time — answering the "is it possible to change"
-note on your sketch.
-
-How it's used: a GitHub Actions workflow (update-greeting.yml) runs this
-file on a schedule. It edits README.md in place, between the two marker
-comments, then the workflow commits the change.
-
-Setup:
-1. Put this file in the ROOT of your profile repo (same folder as README.md).
-2. Put update-greeting.yml inside a folder called .github/workflows/
-   (create that folder path if it doesn't exist).
-3. Change TIMEZONE and NAME below to your own.
-4. Commit + push. It'll run automatically on the schedule in the workflow
-   file, or you can trigger it manually from the "Actions" tab on GitHub
-   (click the workflow name -> "Run workflow").
-"""
 
 import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-TIMEZONE = "Asia/Kolkata"  # change to your timezone, e.g. "America/New_York"
-NAME = "Soumya"            # change to your name
-README_PATH = "README.md"
+TIMEZONE = "Asia/Kolkata" 
+NAME = "Soumya"           
 START_MARKER = "<!-- GREETING:START -->"
 END_MARKER = "<!-- GREETING:END -->"
 
