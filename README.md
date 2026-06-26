@@ -19,8 +19,9 @@ $\color{#FFFFFF}\textit{"The best way to predict the future is to create it." â€
 </tr>
 </table>
 
-
-### Good Night! I'm Soumya.
+<!-- GREETING:START -->
+### Good day! I'm Soumya.
+<!-- GREETING:END -->
 
 
 I'm a student pursuing Btech in EXTC. Living in a practical World.
