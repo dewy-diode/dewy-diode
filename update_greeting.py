@@ -3,8 +3,9 @@ import re
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-TIMEZONE = "Asia/Kolkata" 
+TIMEZONE = "Asia/Kolkata"  
 NAME = "Soumya"           
+README_PATH = "README.md"
 START_MARKER = "<!-- GREETING:START -->"
 END_MARKER = "<!-- GREETING:END -->"
 
