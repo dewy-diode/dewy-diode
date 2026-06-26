@@ -1,13 +1,4 @@
-# Optional bonus, paired with update_greeting.py.
-#
-# WHERE THIS FILE GOES: it must live at this exact path in your repo:
-#   .github/workflows/update-greeting.yml
-# (GitHub only looks for workflows in that specific folder.)
-#
-# What it does: every 3 hours, it runs update_greeting.py, which rewrites
-# the greeting line in README.md to match the current time, then commits
-# the change if anything actually changed. You can also trigger it by hand
-# from the repo's "Actions" tab at any time.
+
 
 name: Update time-based greeting
 
@@ -34,4 +25,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet || git commit -m "chore: update time-based greeting"
+          git pull --rebase origin main
           git push
