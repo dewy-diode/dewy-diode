@@ -20,7 +20,7 @@ $\color{#FFFFFF}\textit{"The best way to predict the future is to create it." â€
 </table>
 
 <!-- GREETING:START -->
-### Good day! I'm Soumya.
+### ðŸ‘‹ Good Afternoon! I'm Soumya.
 <!-- GREETING:END -->
 
 
