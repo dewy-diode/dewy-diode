@@ -24,7 +24,7 @@ $\color{#8a1f33}\textit{"The best way to predict the future is to create it." â€
 <!-- GREETING:END -->
 
 
-I'm a student pursuing Btech in EXTC. Living in a practical World.
+I'm a student pursuing Btech in ECE. Living in a practical World.
 
 ---
 
