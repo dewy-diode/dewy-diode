@@ -24,7 +24,7 @@ $\color{#8a1f33}\textit{"The best way to predict the future is to create it." â€
 <!-- GREETING:END -->
 
 
-I'm a student pursuing Btech in ECE. Living in a practical World.
+Pursuing Btech in ECE. Living in a practical World.
 
 ---
 
@@ -47,9 +47,3 @@ I'm a student pursuing Btech in ECE. Living in a practical World.
 
 
 ---
-
-### Soumya's Contribution Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewy-diode&bg_color=0D0D0D&color=E6E6E6&title_color=FF3B3B&line=FF3B3B&point=FF3B3B&area=true&area_color=FF3B3B&hide_border=true" alt="contribution activity graph" width="100%"/>
-</p>
